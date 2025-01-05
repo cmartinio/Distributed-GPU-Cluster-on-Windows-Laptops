@@ -9,6 +9,29 @@
 
 NB: Not to be published.:
 
+## Daily Notes Todo
+
+
+- Contact freeDreams
+- Deploy Network-wide adsBlocker
+- consolidate Google cloud Storage locally
+- finish week 2 on 2 AI courses
+- check AcloudGuru for new material
+- Reply to Geneva recruiter about Terraform job
+- Resctructure Local Network with Multiple Subnet for security
+- Redeploy a secure wordpress on the outside Subnet with all the security features
+- Scan the entire Network After wordpress deployment.
+
+
+### About Me
+
+With over a decade of experience in IT, I am a Site Reliability Engineer and Cybersecurity Professional specializing in Kubernetes, AI prompt engineering, Terraform, and Ansible. My work focuses on designing, deploying, and managing scalable and secure hybrid cloud infrastructures while leveraging cutting-edge AI tools like Ollama, OpenAI, and Claude to enhance efficiency.
+
+Passionate about innovation and continuous learning, I stay ahead in the dynamic tech landscape. Explore my personal website [cmartin.io](https://cmartin.io) and blog to learn more.
+
+
+
+
 ***REMOVED***
 
 ## Plans for deploying a Local cluster on my laptop:
@@ -62,3 +85,4 @@ NB: Not to be published.:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" />
 </div>
 
+/home/christian/DevContainer/Misclinious/Daily-notes.md
