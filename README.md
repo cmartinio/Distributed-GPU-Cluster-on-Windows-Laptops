@@ -1,0 +1,1 @@
+This repository provides a comprehensive guide on how to utilize existing hardware, particularly Windows laptops, to build a distributed GPU cluster using Windows Subsystem for Linux (WSL). The repository covers two versions of cluster deployment: one using Docker Swarm and the other using Kubernetes deployed on WSL.
